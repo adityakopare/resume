@@ -1,0 +1,68 @@
+body{
+  font-family:"Montserrat",sans-serif;
+  text-align: center;
+  font-size: 25px;
+
+
+}
+p{
+  font-style: oblique;
+  color: purple;
+  font-weight:400;
+
+}
+.skill-row{
+ width: 30%;
+  margin:  auto;
+  text-align: left;
+  line-height: 2;
+}
+
+h1{
+  font-family: "Sacramento",cursive;
+  font-size: 6.4rem;
+}
+h2{
+  font-family: "Montserrat",sans-serif;
+}
+h3{
+  font-family: "Montserrat",sans-serif;
+}
+.Top-box{
+  background-color: #E4F9F5;
+  position:  relative;
+  padding-top: 100px;
+
+
+
+
+
+}
+.Middle-box{
+
+
+
+
+}
+.Bottom-box{
+
+
+
+
+}
+.top-cloud{
+  position: absolute;
+  height: 200px;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  height: 200px;
+  left: 300px;
+  bottom: 300px;
+}
+.mountain{
+
+
+}
